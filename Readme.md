@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Q181266/Form1.cs) (VB: [Form1.vb](./VB/Q181266/Form1.vb))
+* [Program.cs](./CS/Q181266/Program.cs) (VB: [Program.vb](./VB/Q181266/Program.vb))
+<!-- default file list end -->
 # How to force the CheckEdit to change its state only when clicked in the glyph
 
 
