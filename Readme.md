@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WinForms CheckEdit - Change state when clicking on a checkbox (glyph)
+# WinForms CheckEdit - Change state by clicking exactly on the checkbox (glyph)
 
 The WinForms CheckEdit changes the check state when the user clicks a checkbox or text. This example handles the `MouseDown` event to prevent the state from changing when clicked anywhere other than the checkbox:
 
