@@ -6,7 +6,7 @@
 
 # WinForms CheckEdit - Change the state by clicking exactly on the checkbox (glyph)
 
-The WinForms CheckEdit changes the check state when the user clicks a checkbox or text. This example handles the `MouseDown` event to prevent the state from changing when clicked anywhere other than the checkbox:
+The WinForms CheckEdit changes the check state when a user clicks a checkbox or text. This example handles the `MouseDown` event to prevent the state from changing when the user clicks anywhere other than the checkbox:
 
 ```csharp
 private void checkEdit1_MouseDown(object sender, MouseEventArgs e) {
